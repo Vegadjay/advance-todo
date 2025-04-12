@@ -83,8 +83,8 @@ A modern, interactive note management system with beautiful animations and intui
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd vibrant-notes
+git clone https://github.com/Vegadjay/advance-todo.git
+cd advance-todo
 ```
 
 2. **Install dependencies**
@@ -148,7 +148,7 @@ We welcome contributions! Here's how you can help:
 
 1. **Fork & Clone**
    ```bash
-   git clone <your-fork-url>
+   git clone https://github.com/Vegadjay/advance-todo.git
    cd vibrant-notes
    ```
 
@@ -211,4 +211,4 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ---
 
-Made with 💖 by [Your Name/Team]
+Made with 💖 by [Jay vegad](https://x.com/JAY_VEGAD_)
