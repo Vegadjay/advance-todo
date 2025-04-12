@@ -25,23 +25,23 @@ A modern, interactive note management system with beautiful animations and intui
 ## Screenshots 📸
 
 ### Dashboard Overview
-![Dashboard Overview](/api/placeholder/800/450)
+![Dashboard Overview](./public/screenshots/dashboard.png)
 *Main dashboard showing folders, pinned notes, and quick actions*
 
 ### Task Board View
-![Task Board](/api/placeholder/800/450)
+![Task Board](./public/screenshots/task.png)
 *Kanban-style task board with drag and drop functionality*
 
 ### Note Editor
-![Note Editor](/api/placeholder/800/450)
+![Note Editor](./public/screenshots/addnote.png)
 *Rich text editor with formatting options and color themes*
 
-### Dark Mode
-![Dark Mode](/api/placeholder/800/450)
+### Light Mode
+![Light Mode](./public/screenshots/light.png)
 *Elegant dark mode interface with vibrant accents*
 
 ### Mobile Responsive Design
-![Mobile View](/api/placeholder/400/800)
+![Mobile View](./public/screenshots/mobile.png)
 *Responsive layout optimized for mobile devices*
 
 ## Animations & Interactions 🎬
